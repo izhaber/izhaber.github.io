@@ -1,14 +1,14 @@
 h1 {color:red;
 font-family:verdana}
-p {color: blue;}
+p {color: black;}
 img {
     width: 500px;
 }
 #name {
-   color: #ccff33;
+   color: black;
 }
 #food {
-    color: #aaff80;
+    color: brown;
 }
 #born {
     color: #ff0066;
@@ -22,18 +22,17 @@ img {
     color: #e600ac;
     }
 #subject{ 
-    color:#666633;
+    color:#ff0000;
 }
 #bro{
-    color:#e60000;
+    color:#red;
 }
 #estate{
-    color:#1aff8c; 
+    color:#990099; 
 }
 
 body {
-    background:darkblue;
-}
+    background:lightgreen;
 
 
 

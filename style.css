@@ -1,0 +1,46 @@
+h1 {color:red;
+font-family:verdana}
+p {color: blue;}
+img {
+    width: 500px;
+}
+#name {
+   color: #ccff33;
+}
+#food {
+    color: #aaff80;
+}
+#born {
+    color: #ff0066;
+}
+
+
+#game {
+   color: #b32d00; 
+}
+#color {
+    color: #e600ac;
+    }
+#subject{ 
+    color:#666633;
+}
+#bro{
+    color:#e60000;
+}
+#estate{
+    color:#1aff8c; 
+}
+
+body {
+    background:darkblue;
+}
+
+
+
+
+
+
+
+
+
+
